@@ -272,7 +272,7 @@ function esVocal(letra){
   if( letra == vocal3 ){
     return "Es vocal";
   }
-  if( letra == vocal4 ){
+  if( letra == vocal4 ){ 
     return "Es vocal";
   }
   if( letra.length > 1 ){
