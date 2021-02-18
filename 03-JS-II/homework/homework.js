@@ -232,7 +232,7 @@ function doWhile(numero) {
   var y = 0                     // EXPLICACION  
   do{                           // La variable "y" es igual a la cantidad de veces que se aumenta el valor
     y = y + 1;                  // Entonces el valor de "y" se va incrementando en 1 hasta llegar a 8 
-    numero = numero + 5;        // Como dice en el while y el valor de "numero" se incrementa de a 5
+    numero = numero + 5;        // como dice en el while y el valor de "numero" se incrementa de a 5
   } while (y < 8){
     return numero;
   }
